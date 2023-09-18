@@ -7,10 +7,15 @@
 
 ![NKUST](nkust.png "高科大")
 
-- [x] to do list
-- [ ] 2
-- [ ] 3
-- [ ] 4
+- [x] To do list
+- [ ] Japan
+- [ ] Czech
+- [ ] New Zealand
+
+**NKUST**
+*NKUST*
+~~NKUST~~
+
 
 ```python
 s="python highlighting text"
