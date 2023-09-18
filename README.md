@@ -22,6 +22,8 @@ var s="javascript syntax text";
 alert(s);
 ```
 
-| Tables | Are | Cool |
+|Tables|Are|Cool|
 |:-------|:---:|-----:|
-|Col3 is|right aligned|$1600|
+|Col 3 is|right aligned|$1600|
+|Col 2 is|centered|$12|
+|Zebra Stripes|are neat|$1|
