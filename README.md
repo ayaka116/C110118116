@@ -16,10 +16,6 @@
 *NKUST*
 ~~NKUST~~
 
-..*1.List
-
-
-
 ```python
 s="python highlighting text"
 print(s)
@@ -29,9 +25,25 @@ print(s)
 var s="javascript syntax text";
 alert(s);
 ```
+1. First ordered list item
+2. Another item
+* Unordered sub-list.
+4. Actual numbers don't matter, just that it's a number
+5. And another item.
+ * note 1
+ * note 2
+ * note 3
+---
 
 |Tables|Are|Cool|
 |:-------|:---:|-----:|
 |Col 3 is|right aligned|$1600|
 |Col 2 is|centered|$12|
 |Zebra Stripes|are neat|$1|
+
+|I|Love|Japan|
+|:-------|:---:|-----:|
+|*Still* | renders | **nicely** |
+|*Okinawa*|Nagoya|**Chiba**|
+|Osaka|Sapporo|Kumamoto|
+|Tokyo|Yokohama|Kyoto|
