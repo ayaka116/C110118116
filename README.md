@@ -22,3 +22,6 @@ var s="javascript syntax text";
 alert(s);
 ```
 
+| Tables | Are | Cool |
+|:-------|:---:|-----:|
+|Col3 is|right aligned|$1600|
