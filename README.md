@@ -25,6 +25,8 @@ print(s)
 var s="javascript syntax text";
 alert(s);
 ```
+---
+
 1. First ordered list item
 2. Another item
 * Unordered sub-list.
@@ -41,8 +43,10 @@ alert(s);
 |Col 2 is|centered|$12|
 |Zebra Stripes|are neat|$1|
 
+---
+
 |I|Love|Japan|
 |:-------|:---:|-----:|
-|*Okinawa*|Nagoya|**Chiba**|
+|*Okinawa*|`Nagoya`|**Chiba**|
 |Osaka|Sapporo|Kumamoto|
 |Tokyo|Yokohama|Kyoto|
