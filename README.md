@@ -43,7 +43,6 @@ alert(s);
 
 |I|Love|Japan|
 |:-------|:---:|-----:|
-|*Still* | renders | **nicely** |
 |*Okinawa*|Nagoya|**Chiba**|
 |Osaka|Sapporo|Kumamoto|
 |Tokyo|Yokohama|Kyoto|
