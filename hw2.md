@@ -22,6 +22,8 @@ gantt
 
 
 # PERT圖
+![PERT](https://github.com/ayaka116/C110118116/assets/145322555/ebc289c9-8a3c-4ba9-a2b1-20436e18a651)
+
 
 
 # 關鍵路徑
