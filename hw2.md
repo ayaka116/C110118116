@@ -10,7 +10,7 @@ gantt
     任務分配     :after a1  , 4d
     
     section Another
-    取得硬體      :a2, 2023-11-01  , 17d
+    取得硬體      :a2, 2023-10-02  , 17d
     安裝硬體      :after a2, 10d
     section Another
     程式開發      :a3, 2023-12-01, 70d
